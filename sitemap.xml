@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://jayesh.dev/</loc>
+    </url>
+    <url>
+        <loc>https://jayesh.dev/bear/</loc>
+    </url>
+    <url>
+        <loc>https://jayesh.dev/blog/</loc>
+    </url>
+    <url>
+        <loc>https://jayesh.dev/blog/markdown-syntax/</loc>
+        <lastmod>2020-01-03</lastmod>
+    </url>
+    <url>
+        <loc>https://jayesh.dev/categories/</loc>
+    </url>
+    <url>
+        <loc>https://jayesh.dev/contact/</loc>
+    </url>
+    <url>
+        <loc>https://jayesh.dev/tags/</loc>
+    </url>
+    <url>
+        <loc>https://jayesh.dev/tags/markdown/</loc>
+    </url>
+    <url>
+        <loc>https://jayesh.dev/tags/syntax/</loc>
+    </url>
+    <url>
+        <loc>https://jayesh.dev/zola/</loc>
+    </url>
+</urlset>
