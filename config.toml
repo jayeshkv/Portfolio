@@ -1,6 +1,6 @@
-title = "[d-_-b]"
+title = "[d-_-b] - Jayesh"
 base_url = "https://jayesh.dev/"
-description = "A Zola-theme based on Bear Blog."
+description = "[d-_-b] - Jayesh"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
